@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/rupeshstwt" target="blank"><img src="https://img.shields.io/twitter/follow/rupeshstwt?logo=twitter&style=for-the-badge" alt="rupeshstwt" /></a> </p>
 
-- 🌱 I’m currently learning **DSA in JAVA**
+- 🌱 I’m currently learning **DSA & Backend Dev **
 
 - 📫 How to reach me **rpiwal02@gmail.com**
 
