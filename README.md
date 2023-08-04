@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rupesh Piwal</h1>
 <h3 align="center"> Open Source Enthusiast 🚀</h3>
-<img align="right" alt="I AM THE ONE WHO KNOCKS"width="400" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+<img align="right" alt="img"width="400" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupesh-piwal&label=Profile%20views&color=0e75b6&style=flat" alt="rupesh-piwal" /> </p>
 
@@ -9,8 +9,6 @@
 - 🌱 I’m currently learning ** Web Development **
 
 - 📫 How to reach me **rpiwal02@gmail.com**
-
-- ⚡ Fun fact **There is no spoon...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
