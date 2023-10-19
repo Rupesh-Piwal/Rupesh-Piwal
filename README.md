@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rupesh Piwal</h1>
-<h3 align="center"> FrontEnd Wizard </h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupesh-piwal&label=Profile%20views&color=0e75b6&style=flat" alt="rupesh-piwal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rupeshstwt" target="blank"><img src="https://img.shields.io/twitter/follow/rupeshstwt?logo=twitter&style=for-the-badge" alt="rupeshstwt" /></a> </p>
 
-- 🌱 I’m currently learning ** React Ecosystem **
+
+<img align="right" alt="Coding" width="600" src="https://camo.githubusercontent.com/9bf8947ee6536397df96fe003535b3ea606de488ffbbac5eaf3d32f8becd97ef/68747470733a2f2f632e74656e6f722e636f6d2f4270763977544c4b4d736b41414141432f636f6d70757465722d6e657264732e676966"/>
+
+
+
+- 🌱 I’m currently learning **DSA in JAVA**
 
 - 📫 How to reach me **rpiwal02@gmail.com**
 
@@ -22,6 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupesh-piwal&show_icons=true&locale=en&layout=compact" alt="rupesh-piwal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupesh-piwal&show_icons=true&locale=en" alt="rupesh-piwal" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rupesh-piwal&show_icons=true&locale=en" alt="rupesh-piwal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupesh-piwal&" alt="rupesh-piwal" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rupesh-piwal&" alt="rupesh-piwal" /></p>
+
