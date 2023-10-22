@@ -10,7 +10,7 @@
 
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Next js with TypeScript**
 
 - 📫 How to reach me **rpiwal02@gmail.com**
 
