@@ -10,7 +10,7 @@
 
 
 
-- 🌱 I’m currently learning **Next js with TypeScript**
+- 🌱 I’m currently learning **Node & Express**
 
 - 📫 How to reach me **rpiwal02@gmail.com**
 
