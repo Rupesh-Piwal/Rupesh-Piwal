@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rupesh Piwal</h1>
-<h3 align="center">Frontend Wizard</h3>
+<h3 align="center">Full Stack Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupesh-piwal&label=Profile%20views&color=0e75b6&style=flat" alt="rupesh-piwal" /> </p>
 
