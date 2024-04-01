@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/rupeshstwt" target="blank"><img src="https://img.shields.io/twitter/follow/rupeshstwt?logo=twitter&style=for-the-badge" alt="rupeshstwt" /></a> </p>
 
 
-<img align="right" alt="JSNERD" width="450" src="https://camo.githubusercontent.com/9bf8947ee6536397df96fe003535b3ea606de488ffbbac5eaf3d32f8becd97ef/68747470733a2f2f632e74656e6f722e636f6d2f4270763977544c4b4d736b41414141432f636f6d70757465722d6e657264732e676966"/>
+<img align="right" alt="JSNERD" width="550" src="https://i.redd.it/n8agw6z2smyb1.gif"/>
 
 
 
