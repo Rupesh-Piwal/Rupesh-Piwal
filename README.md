@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/rupeshstwt" target="blank"><img src="https://img.shields.io/twitter/follow/rupeshstwt?logo=twitter&style=for-the-badge" alt="rupeshstwt" /></a> </p>
 
 
-<img align="right" alt="JSNERD" width="550" src="https://i.redd.it/n8agw6z2smyb1.gif"/>
+<img align="right" alt="JSNERD" width="700" src="https://i.redd.it/n8agw6z2smyb1.gif"/>
 
 
 
