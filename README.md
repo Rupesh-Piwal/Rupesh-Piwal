@@ -33,5 +33,5 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Rupesh-Piwal/TalentHire" title="TalentHire"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rupesh-Piwal&repo=TalentHire&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Rupesh-Piwal/connect-Hub " title="connect-Hub "><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rupesh-Piwal&repo=connect-Hub &theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Rupesh-Piwal/TalentHire" title="TalentHire"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rupesh-Piwal&repo=TalentHire&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Rupesh-Piwal/connect-Hub" title="connect-Hub"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rupesh-Piwal&repo=connect-Hub&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
